@@ -1,7 +1,7 @@
 // RTC Elapsed Time and Arduino I2C Test -- Master Code
-#include <Wire.h>
+#include <Wire.h> // Comment test
 #include "RTClib.h"
-//Testing to see if possible to import edited code on Git to Arduino
+// This is branch 2
 long currentTime = 0;
 long prevTime = 0;
 const int ledPin = 13;
