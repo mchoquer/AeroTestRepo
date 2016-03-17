@@ -1,5 +1,5 @@
 // RTC Elapsed Time and Arduino I2C Test -- Master Code
-#include <Wire.h> // Comment test
+#include <Wire.h> // Testing out commit on Git
 #include "RTClib.h"
 // This is branch 2
 long currentTime = 0;
